@@ -1,0 +1,2 @@
+# out_of_the_box
+this is a Quiz app , but not like a simple boring general knowledge quiz .It contains some really amazing and brain teasing feature because to play this game you have to give the wrong answer instead of right answer. This may sound weird but once you try it you will find it really creative, different than any other quiz app. Note: If you run this app and having trouble in starting the game that means you lack creativity or you did not understand the description/the principle of this app .
